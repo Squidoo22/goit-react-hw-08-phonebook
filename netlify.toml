@@ -3,5 +3,5 @@ publish ="build"
 
 [[redirects]]
 from = "/*"
-to = "inedx.html"
+to = "index.html"
 status = 200
