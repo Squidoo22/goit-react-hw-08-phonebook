@@ -1,6 +1,6 @@
 [build] 
+CI="npm run build"
 publish="build"
-CI= npm run build
 
 [[redirects]]
 from="/*"
